@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/*.exe": true
+    },
+    "files.associations": {
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "initializer_list": "c",
+        "lodepng.h": "c"
+    }
+  }
